@@ -41,7 +41,7 @@ To enhance your development experience, install the following VS Code extensions
 Clone the AvatarBoard repository to access deployment scripts and templates:
 
 ```bash
-git clone https://github.com/YourOrganization/AvatarBoard.git
+git clone https://github.com/NikitaChernevskiy/AvatarBoard.git
 ```
 
 ## Deployment Steps
